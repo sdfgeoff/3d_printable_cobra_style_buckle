@@ -15,12 +15,12 @@ gear. Production or sale of this item
 may possibly count as infringing this patent despite some differences in design. This includes
 production for personal use. 
 Publishing the design here does not (as far as I can tell) violate a patent because the 
-patents cover the _production_ not the _design_. This repository and the files therein can 
+patents block _production_ of an item not the _design_. This repository and the files therein can 
 be considered a detailed sketch replicating the design freely available in the patent, 
 rather than a physical production of the design. 
 
-Even the general shape has been patented under USD621743S1, so you cannot produce things
-that _look_ like a cobra buckle. 
+However, the general shape of a cobra buckle has been patented under USD621743S1, so you cannot
+produce things that _look_ like a cobra buckle (I did not know this was possible)
 
 So in theory the files in the repository are freely shareable, but cannot be produced.
 
